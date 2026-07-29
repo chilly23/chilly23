@@ -11,6 +11,7 @@
 
     </td>
     <td style="width: 15%; border: none;">
+      <!-- <img src="https://i.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" height="200px"/> -->
       <img src="https://i.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" height="200px"/>
     </td>
   </tr>
